@@ -7,4 +7,9 @@ I am tim
 🌐 **my websites:** [timd.site](https://timd.site), [timdem228.neocities.org](https://timdem228.neocities.org/)<br>
 
 ---
-##I have other accounts too
+## I have other accounts too
+steam `timdem5`  
+bsky `timd.site`  
+youtube.com `timdem228`  
+
+bebebebebbeebbe
