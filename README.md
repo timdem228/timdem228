@@ -1,5 +1,5 @@
 # Hi there 👋
-I am tim
+I am tim<br>
 🔭 **I’m currntly working on** [StyleOS](https://github.com/styleos-)<br>
 🌱 **I’m currently learning** python and c# <br>
 💬 **you can contact me** [email](mailto:admin@timd.site), [telegram](https://t.me/timdem228)<br>
