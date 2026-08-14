@@ -16,6 +16,22 @@ facts = [
     "my husbend",
     "vtf",
     "lalalalalalala"
+    "pls fuck me"
+    "i love you"
+    "hmmmm... nikwonder"
+    "fuck u!"
+    "what?"
+    "piva"
+    "also try shitshell!"
+    "alt + f4"
+    "nikike = gay"
+    "google pixel 9 xl"
+    "nikike na vas letit vanaya"
+    "go to peak?"
+    "idk"
+    "uwu"
+    ":3"
+    "nikwonder.by"
 ]
 random_fact = random.choice(facts)
 with open("README.md", "r", encoding="utf-8") as file:
