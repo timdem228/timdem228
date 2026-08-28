@@ -41,7 +41,7 @@ print("Selected fact:", random_fact)
 with open("README.md", "r", encoding="utf-8") as file:
     readme_content = file.read()
 
-pattern = r'(⚡ \*\*Fun fact\*\*: \[).*?(\]\(https://nikwonder\.ru\)<br>)'
+pattern = r'(⚡ \*\*Fun fact\*\*: \[).*?(\]\(https://nikwonder\.by\)<br>)'
 
 def repl(m):
     return f"{m.group(1)}{random_fact}{m.group(2)}"
