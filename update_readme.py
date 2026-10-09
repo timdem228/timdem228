@@ -33,6 +33,7 @@ facts = [
     "uwu",
     ":3",
     "nikwonder.by",
+    "NOT NOT NIKWONDER",
 ]
 
 random_fact = random.choice(facts)
