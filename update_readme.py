@@ -4,8 +4,7 @@ import re
 facts = [
     "no",
     "#1 femboy in world",
-    "idi nahuy",
-    "ilovesweatyfemboys123",
+    "idi nahyi",
     "Firefox is your default browser. Good boy.",
     "bebebbebebebe",
     "lol",
